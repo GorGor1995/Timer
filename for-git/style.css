@@ -1,0 +1,40 @@
+body {
+    background-color: blueviolet;
+}
+.timer-container {
+    text-align: center;
+    
+    height: 180px;
+}
+.time {
+    padding-top:5px;
+}
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 100px;
+    
+    
+}
+
+
+
+.sbtn {
+    padding: 50px;
+    background-color:blue;
+    border-radius: 150px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    line-height: 40px;
+    transition: 1s linear;
+    margin-left: 600px;
+    margin-top: 80px;
+}
+.sbtn:active {
+    background-color:aliceblue
+}
+.btn-text {
+    padding-left:750px;
+    padding-top: 50px;
+    font-size: 400;
+}
+
